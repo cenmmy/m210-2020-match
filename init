@@ -1,0 +1,2 @@
+#!/bin/sh
+./M210ConfigTool --usb-port /dev/ttyACM0 --config-file UserConfig.txt --usb-connected-flight on

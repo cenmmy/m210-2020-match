@@ -1,0 +1,8 @@
+classes= 2
+#train  = /home/nobug/detection/car/data/train.txt
+#valid  = /home/nobug/detection/car/data/val.txt
+#valid = data/coco_val_5k.list
+names = /home/dji/WorkSpace/m210-2020-match/yolo/classes.names
+# backup = /home/nobug/detection/car/backup/
+# eval=coco
+
